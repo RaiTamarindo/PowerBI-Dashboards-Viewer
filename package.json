@@ -1,0 +1,28 @@
+{
+  "name": "powerbi-dashboards-viewer",
+  "version": "1.0.0",
+  "description": "A web app that shows PowerBI dashboards stored on PowerBI service.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaiTamarindo/PowerBI-Dashboards-Viewer.git"
+  },
+  "keywords": [
+    "PowerBI",
+    "Dashboard",
+    "Web",
+    "app"
+  ],
+  "author": "Rai Tamarindo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RaiTamarindo/PowerBI-Dashboards-Viewer/issues"
+  },
+  "homepage": "https://github.com/RaiTamarindo/PowerBI-Dashboards-Viewer#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
