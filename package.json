@@ -3,8 +3,7 @@
     "version": "1.0.0",
     "description": "A web app that shows PowerBI dashboards stored on PowerBI service.",
     "main": "index.js",
-    "scripts":
-    {
+    "scripts": {
         "start": "index.js",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
@@ -25,6 +24,11 @@
     },
     "homepage": "https://github.com/RaiTamarindo/PowerBI-Dashboards-Viewer#readme",
     "dependencies": {
-        "express": "^4.16.2"
+        "angular": "^1.6.7",
+        "angular-material": "^1.1.5",
+        "bcrypt": "^1.0.3",
+        "express": "^4.16.2",
+        "jsonwebtoken": "^8.1.0",
+        "mongoose": "^4.13.6"
     }
 }
